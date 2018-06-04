@@ -3,6 +3,8 @@ import kotlin.system.exitProcess
 
 
 // Solution for https://open.kattis.com/problems/coloring
+// With help from https://github.com/amartop
+
 fun main(args: Array<String>){
     val input = Scanner(System.`in`)
     val vertices = input.nextLine().toInt()

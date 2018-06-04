@@ -6,6 +6,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 
 // Solution for https://open.kattis.com/problems/paintball
+// With help from https://github.com/amartop
 public class Paintball3 {
     static final Scanner input = new Scanner(System.in);
     boolean[][] adjMatrix;

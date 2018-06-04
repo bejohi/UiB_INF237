@@ -1,6 +1,7 @@
 import java.util.*
 
 // Solution for https://open.kattis.com/problems/citrusintern
+// With help from https://github.com/amartop
 
 var numberOfEmployees = 0
 var input = Scanner(System.`in`)

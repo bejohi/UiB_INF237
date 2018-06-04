@@ -2,7 +2,7 @@ import math
 import functools
 
 # Solution for https://open.kattis.com/problems/wrapping
-
+# With help from https://github.com/amartop
 class Point:
     def __init__(self):
         self.x = 0.0

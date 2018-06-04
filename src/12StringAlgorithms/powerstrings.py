@@ -1,4 +1,5 @@
 # Solution for https://open.kattis.com/problems/powerstrings
+# With help from https://github.com/amartop
 def solve():
     res_arr = []
     for test_case in range(10):

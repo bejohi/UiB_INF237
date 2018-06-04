@@ -9,7 +9,7 @@ import java.io.PrintWriter;
 import java.io.OutputStream;
 
 // Solution for https://open.kattis.com/problems/bing
-
+// With help from https://github.com/amartop
 public final class BingItOn {
     private static Word start = new Word();
     private static final Kattio input = new Kattio(System.in);

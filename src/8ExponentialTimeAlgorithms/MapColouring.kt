@@ -5,6 +5,8 @@ val resultList = mutableListOf<String>()
 var done = false
 
 // Solution for https://open.kattis.com/problems/mapcolouring
+// With help from https://github.com/amartop
+
 fun main(args: Array<String>){
     val input = Scanner(System.`in`)
     val numberOfTestCases = input.nextInt()

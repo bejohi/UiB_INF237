@@ -3,7 +3,7 @@
 #include <algorithm>
 
 // Solution for https://open.kattis.com/problems/closestpair2
-
+// With help from https://github.com/amartop
 struct Point {
     double x, y;
 };
